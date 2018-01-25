@@ -16,82 +16,82 @@
 
     <string name="app_name">QPython</string>
     <string name="terminal">Terminal</string>
-    <string name="recent">Recent</string>
-    <string name="snippet">Snippet</string>
-    <string name="script">Script</string>
-    <string name="project">Project</string>
+    <string name="recent">Son</string>
+    <string name="snippet">Pasaj</string>
+    <string name="script">Yazı</string>
+    <string name="project">Proje</string>
     <string name="lower_project" translatable="false">projects</string>
 
-    <string name="setting">Setting</string>
-    <string name="editor">Editor</string>
-    <string name="community">Community</string>
+    <string name="setting">Ayar</string>
+    <string name="editor">Editör</string>
+    <string name="community">Topluluk</string>
 
-    <string name="more">More</string>
-    <string name="qpypi">Libraries</string>
+    <string name="more">Daha fazla</string>
+    <string name="qpypi">Kütüphaneler</string>
     <string name="sl4a_server">SL4A Server</string>
     <string name="lib_manager" translatable="false">QPYPI</string>
     <string name="qpypi_up" translatable="false">QPYPI</string>
-    <string name="internal_space">Reset storage</string>
+    <string name="internal_space">Depolamayı sıfırla</string>
     <string name="ftp_server">FTP Server</string>
 
 
     <!---->
     <string name="application_terminal">Terminal</string>
-    <string name="preferences">Preference</string>
+    <string name="preferences">Tercihler</string>
     <string name="new_window">Open new terminal</string>
     <string name="close_window">Close terminal</string>
     <string name="window_list">Terminal list</string>
     <string name="reset">Reset Terminal</string>
-    <string name="send_email">Send mail to…</string>
-    <string name="special_keys">Special keys</string>
-    <string name="toggle_soft_keyboard">Open/Close soft keyboard</string>
+    <string name="send_email">...'a eposta gönder</string>
+    <string name="special_keys">Özel anahtarlar</string>
+    <string name="toggle_soft_keyboard">Klavyeyi Aç/Kapat</string>
 
-    <string name="reset_toast_notification">The state at present will be reset.</string>
+    <string name="reset_toast_notification">Şu anki durum sıfırlanacak.</string>
 
-    <string name="enable_wakelock">Enable wakelock</string>
-    <string name="disable_wakelock">Disable wakelock</string>
-    <string name="enable_wifilock">Enable WIFI lock</string>
-    <string name="disable_wifilock">Disable WIFI lock</string>
+    <string name="enable_wakelock">Wakelock'u etkinleştir</string>
+    <string name="disable_wakelock">Wakelock'u devre dışı bırak</string>
+    <string name="enable_wifilock">WIFI kilidini etkinleştir</string>
+    <string name="disable_wifilock">WIFI kilidini devre dışı bırak</string>
 
-    <string name="edit_text">Edit text</string>
-    <string name="select_text">Select text</string>
-    <string name="copy_all">Copy all</string>
-    <string name="send_control_key">Send control key</string>
-    <string name="send_fn_key">Send Fn key</string>
+    <string name="edit_text">Metni düzenle</string>
+    <string name="select_text">Metin seç</string>
+    <string name="copy_all">Tümünü kopyala</string>
+    <string name="send_control_key">Kontrol anahtarı gönder</string>
+    <string name="send_fn_key">Fn anahtarı gönder</string>
 
     <string name="window_title">Terminal %1$d</string>
 
-    <string name="process_exit_message">Session is over</string>
+    <string name="process_exit_message">Oturum bitti</string>
 
     <!-- Preference dialog -->
-    <string name="screen_preferences">Screen</string>
+    <string name="screen_preferences">Ekran</string>
 
-    <string name="title_statusbar_preference">Status bar</string>
-    <string name="summary_statusbar_preference">Show/Hide Status bar</string>
-    <string name="dialog_title_statusbar_preference">Status bar</string>
+    <string name="title_statusbar_preference">Durum çubuğu</string>
+    <string name="summary_statusbar_preference">Durum çubuğunu göster/gizle</string>
+    <string name="dialog_title_statusbar_preference">Durum çubuğu</string>
 
-    <string name="title_actionbar_preference">Action Bar</string>
-    <string name="summary_actionbar_preference">Choose Action bar\'s behavior(Android 3.0 and above)</string>
-    <string name="dialog_title_actionbar_preference">Action bar\'s behavior</string>
+    <string name="title_actionbar_preference">İşlem çubuğu</string>
+    <string name="summary_actionbar_preference">İşlem çubuğunun hareketini seç(Android 3.0 ve yukarısı)</string>
+    <string name="dialog_title_actionbar_preference">İşlem çubuğunun hareketini seç</string>
 
-    <string name="title_orientation_preference">Screen orientation</string>
-    <string name="summary_orientation_preference">Choose screen orientation action</string>
-    <string name="dialog_title_orientation_preference">screen orientation action</string>
+    <string name="title_orientation_preference">Ekran yönü</string>
+    <string name="summary_orientation_preference">Ekran yönü işlevini seç</string>
+    <string name="dialog_title_orientation_preference">Ekran yönü işlevi</string>
 
-    <string name="text_preferences">Text</string>
+    <string name="text_preferences">Metin</string>
 
-    <string name="title_utf8_by_default_preference">Default use UTF-8</string>
-    <string name="summary_utf8_by_default_preference">Using UTF-8 as default</string>
+    <string name="title_utf8_by_default_preference">Varsayılan UTF-8 'i kullan</string>
+    <string name="summary_utf8_by_default_preference">UTF-8 'i varsayılan olarak kullan</string>
 
-    <string name="title_fontsize_preference">Text size</string>
-    <string name="summary_fontsize_preference">Choose text size</string>
-    <string name="dialog_title_fontsize_preference">Text size</string>
+    <string name="title_fontsize_preference">Metin büyüklüğü</string>
+    <string name="summary_fontsize_preference">Metin büyüklüğünü seç</string>
+    <string name="dialog_title_fontsize_preference">Metin büyüklüğü</string>
 
-    <string name="title_color_preference">Text color</string>
-    <string name="summary_color_preference">Choose text color</string>
-    <string name="dialog_title_color_preference">Text color</string>
+    <string name="title_color_preference">Metin rengi</string>
+    <string name="summary_color_preference">Metin rengini seç</string>
+    <string name="dialog_title_color_preference">Metin rengi</string>
 
-    <string name="keyboard_preferences">Keyboard</string>
+    <string name="keyboard_preferences">Klavye</string>
 
     <string name="title_backaction_preference">Back key behavior</string>
     <string name="summary_backaction_preference">Choose Back key behavior</string>
@@ -105,37 +105,37 @@
     <string name="summary_fnkey_preference">Choose Fn key behavior</string>
     <string name="dialog_title_fnkey_preference">Fn key</string>
 
-    <string name="title_ime_preference">Input method</string>
-    <string name="summary_ime_preference">Choose input method</string>
-    <string name="dialog_title_ime_preference">Input method</string>
+    <string name="title_ime_preference">Giriş metodu</string>
+    <string name="summary_ime_preference">Giriş metodunu seç</string>
+    <string name="dialog_title_ime_preference">Giriş metodu</string>
 
     <string name="shell_preferences">Shell</string>
     <string name="title_shell_preference">Terminal</string>
-    <string name="summary_shell_preference">Choose Shell</string>
+    <string name="summary_shell_preference">Shell 'i seç</string>
     <string name="dialog_title_shell_preference">Shell</string>
 
-    <string name="title_initialcommand_preference">Initial command</string>
-    <string name="summary_initialcommand_preference">Automatic performance initial command when start</string>
-    <string name="dialog_title_initialcommand_preference">Initial command</string>
+    <string name="title_initialcommand_preference">Başlangıç komutu</string>
+    <string name="summary_initialcommand_preference">Automatic performance initial command when start </string>
+    <string name="dialog_title_initialcommand_preference">Başlangıç komutu</string>
 
-    <string name="title_termtype_preference">Terminal type</string>
+    <string name="title_termtype_preference">Terminal tipi</string>
     <string name="summary_termtype_preference">Set Shell\'s Terminal type</string>
-    <string name="dialog_title_termtype_preference">Terminal type</string>
+    <string name="dialog_title_termtype_preference">Terminal tipi</string>
 
-    <string name="title_close_window_on_process_exit_preference">Close terminal when exit</string>
-    <string name="summary_close_window_on_process_exit_preference">Close terminal when exit</string>
+    <string name="title_close_window_on_process_exit_preference">Çıkınca terminali kapat</string>
+    <string name="summary_close_window_on_process_exit_preference">Çıkınca terminali kapat</string>
 
-    <string name="title_verify_path_preference">verify PATH</string>
-    <string name="summary_verify_path_preference">Clear invalid PATH</string>
+    <string name="title_verify_path_preference">PATH 'i doğrula</string>
+    <string name="summary_verify_path_preference">Geçersiz PATH 'i temizle</string>
 
-    <string name="title_do_path_extensions_preference">Allow PATH expand</string>
-    <string name="summary_do_path_extensions_preference">Allow add command to PATH</string>
+    <string name="title_do_path_extensions_preference">PATH genişlemesine izin ver</string>
+    <string name="summary_do_path_extensions_preference">PATH 'e komut eklemeye izin ver</string>
 
-    <string name="title_allow_prepend_path_preference">Allow preposition PATH</string>
-    <string name="summary_allow_prepend_path_preference">Allow override exist command in PATH</string>
+    <string name="title_allow_prepend_path_preference">PATH edatına izin ver</string>
+    <string name="summary_allow_prepend_path_preference">PATH 'teki var olan komutu geçersiz kılmaya izin ver</string>
 
-    <string name="title_home_path_preference">HOME Folder</string>
-    <string name="summary_home_path_preference">Use as HOME\'s writable path</string>
+    <string name="title_home_path_preference">ANA klasör</string>
+    <string name="summary_home_path_preference">Ana klasörün yazılabilir Path olarak kullan </string>
 
     <string name="control_key_dialog_title">Ctrl and Fn key</string>
     <string name="control_key_dialog_control_text">CTRLKEY Space : Control-@ (NUL)\nCTRLKEY A..Z : Control-A..Z\nCTRLKEY 5 : Control-]\nCTRLKEY 6 : Control-^\nCTRLKEY 7 : Control-_\nCTRLKEY 9 : F11\nCTRLKEY 0 : F12</string>
@@ -143,303 +143,303 @@
     <string name="control_key_dialog_fn_text">FNKEY 1..9 : F1-F9\nFNKEY 0 : F10\nFNKEY W : Up\nFNKEY A : Left\nFNKEY S : Down\nFNKEY D : Right\nFNKEY P : PageUp\nFNKEY N : PageDown\nFNKEY T : Tab\nFNKEY L : | (pipe)\nFNKEY U : _ (underscore)\nFNKEY E : Control-[ (ESC)\nFNKEY X : Delete\nFNKEY I : Insert\nFNKEY H : Home\nFNKEY F : End\nFNKEY . : Control-\\\n</string>
     <string name="control_key_dialog_fn_disabled_text">Fn key unset</string>
 
-    <string name="confirm_window_close_message">Close terminal?</string>
+    <string name="confirm_window_close_message">Terminali kapat?</string>
 
-    <string name="email_transcript_subject">Copy terminal</string>
-    <string name="feedback_email_subject">Feedback - QPython</string>
-    <string name="email_transcript_chooser_title">Feedback ...</string>
-    <string name="email_transcript_no_email_activity_found">Can not find propriety App to send E-mail</string>
+    <string name="email_transcript_subject">Terminali kopyala</string>
+    <string name="feedback_email_subject">Geri bildirim - QPython</string>
+    <string name="email_transcript_chooser_title">Geri bildirim ...</string>
+    <string name="email_transcript_no_email_activity_found">E-posta göndermek için uygun uygulama bulunamadı</string>
 
-    <string name="alt_sends_esc">Use Alt as ESC</string>
-    <string name="alt_sends_esc_summary_on">Using Alt as ESC</string>
-    <string name="alt_sends_esc_summary_off">Cancel using Alt as ESC</string>
+    <string name="alt_sends_esc">Alt 'ı ESC olarak kullan</string>
+    <string name="alt_sends_esc_summary_on">Alt 'ı ESC olarak kullan</string>
+    <string name="alt_sends_esc_summary_off">Alt 'ı ESC olarak kullanMayıs iptal et</string>
 
     <string name="title_mouse_tracking_preference">Send mouse event</string>
-    <string name="summary_mouse_tracking_preference">Are touch and scroll event ignored?</string>
+    <string name="summary_mouse_tracking_preference">Dokunma ve kaydırma olayı yok sayılsın mı?</string>
 
-    <string name="dialog_title_script">script</string>
-    <string name="dialog_title_project">project</string>
+    <string name="dialog_title_script">yazı</string>
+    <string name="dialog_title_project">proje</string>
 
 
-    <string name="title_use_keyboard_shortcuts">Use Keyboard Shortcuts</string>
-    <string name="use_keyboard_shortcuts_summary_on">Ctrl-Tab: cycle terminal, Ctrl-Shift-N: new terminal, Ctrl-Shift-V: paste.</string>
-    <string name="use_keyboard_shortcuts_summary_off">Keyboard shortcuts disabled.</string>
-    <string name="help">Help</string>
+    <string name="title_use_keyboard_shortcuts">Klavye kısayollarını kullan</string>
+    <string name="use_keyboard_shortcuts_summary_on">Ctrl-Tab: terminali dönüştür , Ctrl-Shift-N: yeni terminal, Ctrl-Shift-V: yapıştır.</string>
+    <string name="use_keyboard_shortcuts_summary_off">Klavye kısayollarını engelle.</string>
+    <string name="help">Yardım</string>
     <string name="activity_term_here_title">Term here</string>
     <!-- BEGIN SHORTCUT RELATED STRINGS -->
     <!-- AndroidManifest.xml -->
-    <string name="activity_shortcut_create">"Term shortcut"</string>
-    <string name="addshortcut_button_find_command">Find command</string>
-    <string name="addshortcut_command_hint">command</string>
-    <string name="addshortcut_example_hint">--example=\""a\"</string>
-    <string name="addshortcut_navigator_title">SELECT SHORTCUT TARGET</string>
-    <string name="addshortcut_command_window_instructions">Command terminal requires full mPath, no arguments. For other commands use Arguments terminal (ex: cd /sdcard).</string>
-    <string name="addshortcut_arguments_label">Add to dictionary</string>
-    <string name="addshortcut_shortcut_label">Shortcut label\:</string>
-    <string name="addshortcut_button_text_icon">Text icon</string>
-    <string name="addshortcut_make_text_icon">MAKE TEXT ICON</string>
+    <string name="activity_shortcut_create">"Dönem kısayolu"</string>
+    <string name="addshortcut_button_find_command">Komut bul</string>
+    <string name="addshortcut_command_hint">komut</string>
+    <string name="addshortcut_example_hint">--örnek=\""a\"</string>
+    <string name="addshortcut_navigator_title">KISAYOL HEDEFİNİ SEÇ</string>
+    <string name="addshortcut_command_window_instructions">Komut terminali full mPath gerektirir, argüman değil. Diğer komutlar argüman terminalini kullanır. (ör: cd /sdcard).</string>
+    <string name="addshortcut_arguments_label">Sözlüğe ekle</string>
+    <string name="addshortcut_shortcut_label">Kısayol etiketi\:</string>
+    <string name="addshortcut_button_text_icon">Metin simgesi</string>
+    <string name="addshortcut_make_text_icon">METİN SİMGESİ YAP</string>
     <string name="addshortcut_text_icon_instructions"></string>
     <string name="addshortcut_title">Term shortcut</string>
     <!-- FSNavigator.java -->
-    <string name="fsnavigator_title">FILE SELECTOR</string>
-    <string name="fsnavigator_no_external_storage">External storage not available</string>
-    <string name="fsnavigator_optional_enter_path">Or enter mPath here.</string>
-    <string name="fsnavigator_change_theme">Change theme</string>
+    <string name="fsnavigator_title">DOSYA SEÇİCİ</string>
+    <string name="fsnavigator_no_external_storage">Dış depolama etkin değil</string>
+    <string name="fsnavigator_optional_enter_path">Ya da buraya mPath giriniz.</string>
+    <string name="fsnavigator_change_theme">Temayı değiştir </string>
     <!-- ColorValue.java -->
     <string name="colorvalue_letter_alpha" translatable="false">α</string>
     <string name="colorvalue_letter_red" translatable="false">R</string>
     <string name="colorvalue_letter_green" translatable="false">G</string>
     <string name="colorvalue_letter_blue" translatable="false">B</string>
-    <string name="colorvalue_label_lock_button_column">LOCK</string>
-    <string name="colorvalue_icon_text_entry_hint">Enter icon text</string>
+    <string name="colorvalue_label_lock_button_column">KİLİT</string>
+    <string name="colorvalue_icon_text_entry_hint">Simge metnini girin</string>
 
     <string name="help_url">http://www.qpython.org</string>
 
-    <string name="read_only">Read only</string>
-    <string name="file">Explorer</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="ok">OK</string>
-    <string name="close">close</string>
-    <string name="no_change">No change</string>
-    <string name="feedback">Feedback</string>
-    <string name="about">About</string>
-    <string name="file_not_exists">File did not exist</string>
-    <string name="enable_root">Enable root</string>
+    <string name="read_only">Sadece oku</string>
+    <string name="file">Arayıcı</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="ok">Tamam</string>
+    <string name="close">kapat</string>
+    <string name="no_change">Değişiklik yok</string>
+    <string name="feedback">Geri bildirim</string>
+    <string name="about">Hakkında</string>
+    <string name="file_not_exists">Dosya mevcut değil</string>
+    <string name="enable_root">Root 'u etkinleştir</string>
     <!--<string name="my_name">作者：彭春瑜</string>-->
     <!--<string name="qq_group">QQ群：87272821</string>-->
-    <string name="send">Send</string>
-    <string name="no_camera">Can not find the available camera, please check if the camera permissions is granted</string>
-    <string name="no_storage">No read storage permission</string>
+    <string name="send">Gönder</string>
+    <string name="no_camera">Mevcut kamera bulunamadı, lütfen kameraya izin verilip verilmediğini kontrol edin</string>
+    <string name="no_storage">No read storage permission</string
 
 
     <string name="pref_initialcommand_default_qpython">python</string>
     <string name="qpy_app">QPY</string>
     <string name="local_app">Local APP</string>
-    <string name="task">Task</string>
-    <string name="root_mode">Root mode</string>
-    <string name="star_it">Rate it</string>
-    <string name="disable_root">Disable</string>
+    <string name="task">Görev</string>
+    <string name="root_mode">Root modu</string>
+    <string name="star_it">Oyla</string>
+    <string name="disable_root">Devre dışı</string>
     <string name="http_qpypi_qpython_org">https://pypi.python.org/simple/</string>
-    <string name="add">add</string>
-    <string name="sl4a_running">SL4A server is running</string>
-    <string name="sl4a_un_running">SL4A server is not running</string>
+    <string name="add">ekle</string>
+    <string name="sl4a_running">SL4A server 'i çalışıyor</string>
+    <string name="sl4a_un_running">SL4A server 'i çalışmıyor</string>
     <string name="service_toggle">Server taggle</string>
-    <string name="qpy_description">QPython is a script engine running on android devices like phone or tablet.QPython is a script engine running on android devices like phone or tablet.</string>
-    <string name="warning">Warning</string>
-    <string name="reset_warning">Reset storage will lost all setting and downloaded libs, are you sure you want to reset?</string>
-    <string name="downloading">Library</string>
-    <string name="location">Location</string>
+    <string name="qpy_description">QPython telefon ya da tablet gibi android cihazlarda çalışan yazı (script) motorudur. QPython telefon ya da tablet gibi android cihazlarda çalışan yazı (script) motorudur.</string>
+    <string name="warning">Uyarı</string>
+    <string name="reset_warning">Depolama silmek ayarları ve yüklenen tüm libleri sıfırlar, sıfırlamak istediğine emin misin?</string>
+    <string name="downloading">Kütüphane</string>
+    <string name="location">Konum</string>
 
 
     <!--  -->
 
     <!-- Titles -->
-    <string name="title_untitled">untitled</string>
+    <string name="title_untitled">başlıksız</string>
     <string name="title_editor">%1$s</string>
     <string name="title_editor_dirty">%1$s *</string>
     <string name="title_editor_readonly">[%1$s]</string>
 
-    <string name="title_settings">Settings </string>
+    <string name="title_settings">Ayarlar </string>
 
     <!-- Config screen strings -->
-    <string name="config_cat_display">Display</string>
-    <string name="config_title_line_numbers">Show line numbers</string>
-    <string name="config_title_word_wrap">Word wrap</string>
-    <string name="config_title_font">Change text font</string>
-    <string name="config_title_text_size">Text size</string>
-    <string name="config_title_color_theme">Color theme</string>
-    <string name="config_title_scroll_fling">Fling to scroll faster</string>
-    <string name="config_summary_line_numbers">Display the line number at the left of the page</string>
-    <string name="config_summary_word_wrap">Lines will break in new lines if they are too wide for the screen</string>
-    <string name="config_summary_scroll_fling">Uncheck if you have performance issues</string>
+    <string name="config_cat_display">Ekran</string>
+    <string name="config_title_line_numbers">Sıra numaralarını göster</string>
+    <string name="config_title_word_wrap">Kelime paketleme</string>
+    <string name="config_title_font">Yazı tipini değiştir</string>
+    <string name="config_title_text_size">Metin büyüklüğü</string>
+    <string name="config_title_color_theme">Renk teması</string>
+    <string name="config_title_scroll_fling">Daha hızlı kaydırma için fırlatma</string>
+    <string name="config_summary_line_numbers">Sayfanın solunda sıra numaralarını göster </string>
+    <string name="config_summary_word_wrap">Ekran için çok genişlerse, hatlar yeni hatlarda kırılacak</string>
+    <string name="config_summary_scroll_fling">Performans sorunlarınız varsa işareti kaldırın</string>
 
     <!-- Options Menu in QEdit -->
 
     <!-- Misc UI strings -->
-    <string name="ui_save_text">"Do you want to save your document? \nAny unsaved changes will be lost. "</string>
-    <string name="ui_save">Save</string>
-    <string name="ui_delete">Delete</string>
-    <string name="ui_no_save">"Don't save"</string>
-    <string name="ui_cancel">Cancel</string>
-    <string name="ui_hint_file_name">File name</string>
-    <string name="ui_hint_search">Search</string>
-    <string name="ui_history">History</string>
-    <string name="ui_force_read_only">Open as read only</string>
-    <string name="about_content">QEdit is a text editor for android tablets and phones, besides text edit, it can make python / HTML development on android more fun and convenient especially.</string>
+    <string name="ui_save_text">"Belgeni kaydetmek ister misin? \nKaydedilmeyen değişiklikler kaybolacak. "</string>
+    <string name="ui_save">Kaydet</string>
+    <string name="ui_delete">Sil</string>
+    <string name="ui_no_save">"Kaydetme"</string>
+    <string name="ui_cancel">İptal</string>
+    <string name="ui_hint_file_name">Dosya adı</string>
+    <string name="ui_hint_search">Ara</string>
+    <string name="ui_history">Geçmiş</string>
+    <string name="ui_force_read_only">Sadece okuma için aç</string>
+    <string name="about_content">QEdit android tabletler ve telefonlar için bir metin düzenleyici, metin düzenleme dışında , ayrıca android'de python / HTML geliştirmesi yapabilmek için uygundur.</string>
 
     <!-- Misc Strings -->
-    <string name="lorem_ipsum">"QEdit is a great script editor."</string>
+    <string name="lorem_ipsum">"QEdit haRika bir script düzenleyicisi."</string>
 
-    <string name="file_exists">File exists, please rename</string>
+    <string name="file_exists">Dosya bulunuyor, lütfen yeniden adlandırın</string>
 
     <string name="video_src">Video {0}</string>
-    <string name="play_video">Play</string>
-    <string name="no_videos_found">No videos found in this page</string>
-    <string name="pls_install_a8_play">Please install A8 Video Player first</string>
-    <string name="download_as">Download and save as</string>
+    <string name="play_video">Oynat</string>
+    <string name="no_videos_found">Sayfada video bulunamadı</string>
+    <string name="pls_install_a8_play">Lütfen önce A8 Video Player kurun</string>
+    <string name="download_as">Yükle ve gibi kaydet..</string>
     <string name="info_browser">QBrowser</string>
 
     <!--  added by kyle -->
-    <string name="share">Share</string>
-    <string name="save_as_snippets">Save as snippet</string>
-    <string name="snippet_exist">Snippet exists, please change to another name.</string>
-    <string name="save_as_snippets_1">Snippets has been saved as: </string>
-    <string name="fail_to_insert">Fail to insert snippet</string>
-    <string name="fail_to_goto">Please input correct number</string>
-    <string name="max_lines_num_with_syntax_title">Auto-highlight lines</string>
-    <string name="max_lines_num_with_syntax_summary">Auto-highlight if lines less than %s</string>
-    <string name="qedit_not_support">QEdit only support to preview/execute the following file types\n.py, .sh, .lua, .html, .md.</string>
+    <string name="share">Paylaş</string>
+    <string name="save_as_snippets">Pasaj  olarak kaydet</string>
+    <string name="snippet_exist">Pasaj bulunmakta, lütfen ii değiştirin.</string>
+    <string name="save_as_snippets_1">Pasajlar ..olarak kaydedildi: </string>
+    <string name="fail_to_insert">Pasaja ekleme başarısız</string>
+    <string name="fail_to_goto">Lütfen doğru bir sayı girin</string>
+    <string name="max_lines_num_with_syntax_title">Oto-fosforlu hatlar </string>
+    <string name="max_lines_num_with_syntax_summary">Oto-fosforlu hatlar yap eğer hatlar %s dan azsa</string>
+    <string name="qedit_not_support">QEdit sadece \n.py, .sh, .lua, .html, .md  uzantılı dosyaları göstermeyi destekler.</string>
 
-    <string name="pls_install_lua">Please install the QLua to run lua script</string>
-    <string name="pls_install_qpy">Please install the QPython to run python script</string>
-    <string name="info_snippets">Snippets</string>
+    <string name="pls_install_lua">Lua scriptini çalıştırmak için lütfen QLua yı kurun</string>
+    <string name="pls_install_qpy">Python scriptini çalıştırmak için lütfen QPython kurun s</string>
+    <string name="info_snippets">Pasajlar </string>
 
-    <string name="ui_ok">OK</string>
-    <string name="ui_contact_title">Contact</string>
-    <string name="ui_licence_title">Licence</string>
+    <string name="ui_ok">Tamam</string>
+    <string name="ui_contact_title">İletişim </string>
+    <string name="ui_licence_title">Lisans</string>
     <string name="ui_mail">support@qpython.org</string>
     <string name="ui_feedback_mail" translatable="false">support@qpython.org</string>
-    <string name="ui_choose_mail">Open mail using &#8230; </string>
+    <string name="ui_choose_mail"> &#8230 kullanan postayı aç; </string>
     <string name="ui_market_url">"https://market.android.com/developer?pub=Xavier+Gouchet"</string>
     <string name="ui_market_app_url">"https://play.google.com/store/apps/details?id=%s"</string>
-    <string name="ui_market">"Take a look at my other apps"</string>
-    <string name="ui_app_rating">"Rate this app \n Leave a feedback"</string>
-    <string name="ui_feedback">"Please feel free to contact me for any feedback, feature request or bug report. "</string>
+    <string name="ui_market">"Diğer uygulamaçlara bir göz at"</string>
+    <string name="ui_app_rating">"Bu uygulamayı oyla \n Geri bildir bırak"</string>
+    <string name="ui_feedback">" Yenilik isteği, geri bildirim ve bug raporu için lütfen iletişime geçmekten çekinmeyin. "</string>
     <string name="ui_licence_content">"This software is provided 'as-is', without any express or implied warranty.  In no event will the author be held liable for any damages arising from the use of this software."</string>
-    <string name="ui_art_licence_title">Artistic Licence</string>
-    <string name="ui_art_licence_content">"All icons for this app were created and belong to the author of the app : QPython."</string>
-    <string name="ui_whats_new">"What's new"</string>
-    <string name="save">Save</string>
-    <string name="save_as">Save as</string>
-    <string name="open">Open</string>
-    <string name="file_name">File Name</string>
-    <string name="file_exist_hint">This file is exist, please rename.</string>
-    <string name="empty_file">Blank file</string>
-    <string name="webapp_project">WebApp(Project)</string>
-    <string name="console_app_project">ConsoleApp(Project)</string>
-    <string name="kivy_app_project">KivyApp(Project)</string>
-    <string name="confirm">Confirm</string>
-    <string name="cancel">Cancel</string>
-    <string name="new_project">New project</string>
-    <string name="error_dont_kn">Some error occurred.</string>
-    <string name="project_name">Project name</string>
-    <string name="jump_to">Jump to</string>
-    <string name="choose_ttf">Choose font file(.ttf)</string>
-    <string name="explorer">Explorer</string>
-    <string name="new_script">New script</string>
-    <string name="enter_name_hint">Enter script name</string>
+    <string name="ui_art_licence_title">Artistik Lisans</string>
+    <string name="ui_art_licence_content">"Bu uygulamadaki tüm simgeler uygulamanın yaratıcısı tarafından oluşturulmuş olup ona aittir: QPython."</string>
+    <string name="ui_whats_new">"Yenilikler"</string>
+    <string name="save">Kaydet</string>
+    <string name="save_as">..Olarak kaydet</string>
+    <string name="open">Aç</string>
+    <string name="file_name">Dosya adı</string>
+    <string name="file_exist_hint">Dosya bulunuyor, lütfen yeniden adlandırın.</string>
+    <string name="empty_file">Boş dosya</string>
+    <string name="webapp_project">WebUyg(Proje)</string>
+    <string name="console_app_project">KonsolUyg(Proje)</string>
+    <string name="kivy_app_project">KivyUyg(Proje)</string>
+    <string name="confirm">Onayla</string>
+    <string name="cancel">İptal</string>
+    <string name="new_project">Yeni proje</string>
+    <string name="error_dont_kn">Bir hata oluştu.</string>
+    <string name="project_name">Proje adı</string>
+    <string name="jump_to">.. satırına atla</string>
+    <string name="choose_ttf">Yazı tipi dosyasını seç(.ttf)</string>
+    <string name="explorer">Arayıcı</string>
+    <string name="new_script">Yeni script</string>
+    <string name="enter_name_hint">Script adını girin</string>
 
-    <string name="paste">Paste</string>
-    <string name="install_with_python_s_pypi">INSTALL WITH PYTHON\'S PYPI</string>
-    <string name="py_pi">You can install or upgrde Python packages for android paltform through pypi.python.org</string>
-    <string name="download_fail">Download fail</string>
+    <string name="paste">Yapıştır </string>
+    <string name="install_with_python_s_pypi">PYTHON\'S PYPI ile kur</string>
+    <string name="py_pi"> thropypi.python.org 'dan android platformu için olan python dosyalarını güncelleyip ya da indirebilirsiniz </string>
+    <string name="download_fail">Yükleme başarısız </string>
     <string name="key_root" translatable="false">root</string>
     <string name="key_sl4a" translatable="false">sl4a</string>
     <string name="key_qpypi" translatable="false">qpypi</string>
-    <string name="key_reset">reset_storage</string>
-    <string name="key_ftp_state">running_state</string>
-    <string name="key_username">username</string>
-    <string name="key_ftp_pwd">password</string>
-    <string name="key_port_num">portNum</string>
-    <string name="key_show_pwd">show_password</string>
+    <string name="key_reset">depolamayı_sıfırla</string>
+    <string name="key_ftp_state">çalışma_durumu</string>
+    <string name="key_username">kullanıcıadı</string>
+    <string name="key_ftp_pwd">şifre</string>
+    <string name="key_port_num">portNumara</string>
+    <string name="key_show_pwd">şifreyi_göster</string>
     <string name="key_root_dir">chrootDir</string>
-    <string name="key_stay_awake">stayAwake</string>
-    <string name="key_about">about</string>
-    <string name="dir_not_valid">The direction is not valid</string>
-    <string name="already_newest">Already newest</string>
-    <string name="share_text">QPython is a script engine running on android devices like phone or tablet, It embeds the Python interpreter, console, editor, SL4A Library for Android, which can make your android device run Python http://qpython.com/privacy.html</string>
-    <string name="privacy_html" translatable="false">http://qpython.com/privacy.html</string>
-    <string name="new_folder">New Folder</string>
-    <string name="folder_name">Folder name</string>
-    <string name="untitled_folder">untitled folder</string>
-    <string name="toast_folder_exist">Operation failed! Please use a different name</string>
-    <string name="fail_open_file">Unable to open the file, the file is not exists</string>
-    <string name="run_dirty_hint">Do you want to save the change first?</string>
-    <string name="no_im_good">No, I\'m good</string>
-    <string name="convert_fail">Convert fail</string>
-    <string name="delete_file_hint">Do you want to delete this file?</string>
-    <string name="rename">Rename</string>
-    <string name="rename_fail">Rename fail</string>
-    <string name="delete_fail">Delete fail</string>
-    <string name="runtime_log">Runtime Log: %s</string>
-    <string name="fedback_mail">[Feedback]\n\n</string>
-    <string name="log_title">Runtime Log</string>
+    <string name="key_stay_awake">uyanıkKal</string>
+    <string name="key_about">hakkında</string>
+    <string name="dir_not_valid">Yön geçerli değil</string>
+    <string name="already_newest">En yeni</string>
+    <string name="share_text">QPython telefon ya da tablet gibi android cihazlarda çalışan bir script editörüdür, Python derleyicisini, konsolu, editörü, Android için SL4A kütüphanesini barından, cihazında Python 'u çalıştırılabilir yapar http://qpython.com/privacy.html</string>
+    <string name="privacy_html" translatable="false">http://qpython.com/privacy.html</strin
+    <string name="new_folder">Yeni klasör</string>
+    <string name="folder_name">Klasör adı</string>
+    <string name="untitled_folder">başlıksız klasör</string>
+    <string name="toast_folder_exist">İşlem başarısız! Lütfen farklı bir ad kullanın</string>
+    <string name="fail_open_file">Dosya açılamıyor, böyle bir dosya yok</string>
+    <string name="run_dirty_hint">Önce değişikliği kaydetmek ister misin?</string>
+    <string name="no_im_good">Hayır, böyle iyi</string>
+    <string name="convert_fail">İşlem başarısız</string>
+    <string name="delete_file_hint">Bu dosyayı silmek ister misin?</string>
+    <string name="rename">Yeniden adlandır</string>
+    <string name="rename_fail">Yeniden adlandırma başarısız</string>
+    <string name="delete_fail">Hatayı sil</string>
+    <string name="runtime_log">Çalışma süresi: %s</string>
+    <string name="fedback_mail">[Geri bildirim]\n\n</string>
+    <string name="log_title">Çalışma süresi</string>
     <string name="log" translatable="false">Log</string>
 
     <string name="date_format">[ %s ]</string>
-    <string name="not_root_yet">This device is not rooted yet</string>
-    <string name="download_apk">Download APK?</string>
-    <string name="download_apk_hint">This operation may charge if you ain\'t in wifi state</string>
-    <string name="downloading_new_apk">Downloading new package</string>
-    <string name="checking_update">Checking update</string>
-    <string name="run_bg_title">Run on background</string>
-    <string name="scan">Scan</string>
-    <string name="read_script_from_qrcode">Read code from QRCode</string>
+    <string name="not_root_yet">Bu cihaz henüz rootlu değil</string>
+    <string name="download_apk">APK indir?</string>
+    <string name="download_apk_hint">Eğer wifi bağlantın yoksa bu işlem şarj edebilir</string>
+    <string name="downloading_new_apk">Yeni dosya indiriliyor</string>
+    <string name="checking_update">Güncellemeyi kontrol et</string>
+    <string name="run_bg_title">Arkaplanda çalıştır</string>
+    <string name="scan">Tara</string>
+    <string name="read_script_from_qrcode">Kodu QRCode 'dan oku</string>
 
-    <string name="course">Course</string>
-    <string name="lost_connect">Lose Connect</string>
-    <string name="featured_courses">Courses</string>
-    <string name="programs">Programs</string>
-    <string name="open_gl2_is_not_supported">OpenGL2 is not supported</string>
-    <string name="unable_extract">Unable to extract python files</string>
-    <string name="get_setting_data_fail">Get setting data fail</string>
-    <string name="terminal_bg_hint">Do you want to keep terminal running on background?</string>
-    <string name="thanks">THANKS!</string>
-    <string name="extra_pypi">Set PYPI</string>
+    <string name="course">Kurs</string>
+    <string name="lost_connect">Bağlantı kaybedildi</string>
+    <string name="featured_courses">Kurslar</string>
+    <string name="programs">Programlar</string>
+    <string name="open_gl2_is_not_supported">OpenGL2 desteklenmiyor</string>
+    <string name="unable_extract">Python dosyaları ayıklanamıyor</string>
+    <string name="get_setting_data_fail">Veri ayarlaması başarısız</string>
+    <string name="terminal_bg_hint">Terminalin arkaplanda çalışmaya devam etmesini istiyor musun?</string>
+    <string name="thanks">TEŞEKKÜRLER!</string>
+    <string name="extra_pypi">PYPI ayarla</string>
     <string name="v_version" translatable="false">v %s</string>
-    <string name="already_newest_current_version">Already newest, current version is </string>
-    <string name="reward">Reward</string>
-    <string name="oops_seems_like_your_net_have_some_trouble">Oops! \n Seems like your net has some trouble…</string>
-    <string name="lose_google_server">Can\'t connect to Google Play service, please check your network.</string>
-    <string name="thanks_your_support">Thanks for your support!</string>
-    <string name="under_16_status_bar_hint">The change of status bar\'s visibility will be apply after restart Terminal.</string>
-    <string name="refresh">Refresh</string>
-    <string name="reset_suc">Reset success</string>
-    <string name="reset_hint">This operation will only become effective after restart</string>
-    <string name="restart">Restart</string>
-    <string name="fail_resume_console">Fail to resume console</string>
-    <string name="failed_bind_term">Failed to bind to TermService!</string>
-    <string name="console_running">QPython Console is running</string>
-    <string name="qpy_console">QPython Console</string>
+    <string name="already_newest_current_version">En yeni, şimdiki versiyon</string>
+    <string name="reward">Ödül</string>
+    <string name="oops_seems_like_your_net_have_some_trouble">Oops! \n Nette sorun var gibi görünüyor…</string>
+    <string name="lose_google_server">Google Play servisine bağlanılamıyor, lütfen bağlantınızı kontrol edin.</string>
+    <string name="thanks_your_support">Desteğin için teşekkürler!</string>
+    <string name="under_16_status_bar_hint">Durum çubuğunun görünümde değişiklik terminali yeniden başlattıktan sonra uygulanıcak.</string>
+    <string name="refresh">Yenile</string>
+    <string name="reset_suc">Sıfırlama başarılı</string>
+    <string name="reset_hint">Bu işlem sadece yeniden başlatıldıktan sonra etkili olacak</string>
+    <string name="restart">Yeniden başlat</string>
+    <string name="fail_resume_console">Konsolu devam ettirme başarısız</string>
+    <string name="failed_bind_term">TermService 'e bağlanma başarısız!</string>
+    <string name="console_running">QPython Konsolu çalışıyor</string>
+    <string name="qpy_console">QPython Konsolu</string>
     <string name="level" translatable="false">lv %s</string>
-    <string name="recommend">Recommend</string>
-    <string name="newest_course">Latest</string>
-    <string name="best_python_development_ide_non_mobile">Best Python Development IDE \non mobile</string>
-    <string name="sign_in_with_google">Sign in with Google</string>
-    <string name="by_signing_in_you_agree_to_out_privacy_policy_term_of_service"><![CDATA[By signing in you agree with our <font color="#4BAC07">privacy policy & term </font>of service]]></string>
+    <string name="recommend">Tavsiye et</string>
+    <string name="newest_course">En son</string>
+    <string name="best_python_development_ide_non_mobile">En iyi Python Geliştirme IDE si\non mobile</string>
+    <string name="sign_in_with_google">Google'la oturum aç</string>
+    <string name="by_signing_in_you_agree_to_out_privacy_policy_term_of_service"><![CDATA[oturum açarak <font color="#4BAC07">gizlilik politikası & dönem </font> servisini kabul etmiş oluyorsunuz]]></string>
     <string name="logo" translatable="false">logo</string>
-    <string name="copy_hint">Copy to editor to run</string>
-    <string name="my_scripts">My Scripts</string>
-    <string name="my_share">My share</string>
-    <string name="gist_title">Gist Title</string>
-    <string name="description">Description</string>
-    <string name="too_long_hint">This value is too long. It should have 140 characters or less.</string>
-    <string name="enter_snippet">Enter snippet name</string>
-    <string name="welcome_s">Welcome, <![CDATA[<font color="#4BAC07"><u>%s</u></font>]]></string>
+    <string name="copy_hint">Çalıştırmak için editöre kopyala</string>
+    <string name="my_scripts">Scriptlerim</string>
+    <string name="my_share">Paylaşımlarım</string>
+    <string name="gist_title">Öz Başlık</string>
+    <string name="description">Tanım</string>
+    <string name="too_long_hint">Bu değer çok uzun. En fazla 140 karakter ya da daha az olmalı.</string>
+    <string name="enter_snippet">Pasaj adını girin</string>
+    <string name="welcome_s">Hoşgeldiniz , <![CDATA[<font color="#4BAC07"><u>%s</u></font>]]></string>
     <string name="re_format">Re <![CDATA[<font color="#ECCD00">@%1$s</font>]]>:\u0020 %2$s</string>
     <string name="replied_format"><![CDATA[<font color="#ECCD00">@%1$s</font>]]>:\u0020 %2$s</string>
-    <string name="login"><u>Sign In</u></string>
-    <string name="auth_failed">Authentication failed.</string>
-    <string name="log_out">Sign Out</string>
-    <string name="me">Me</string>
-    <string name="grant_storage_hint">You need to grant storage permission</string>
-    <string name="lost_google_hint">Can not connect to google server, please check your internet</string>
-    <string name="upload_suc">Code upload successfully.</string>
-    <string name="upload_fail">Code could not be uploaded,</string>
-    <string name="my_program">My Program</string>
-    <string name="nothing_here_yet">Nothing here yet. :(</string>
-    <string name="sofa_hint">Do you want to be the first to comment?</string>
+    <string name="login"><u>Oturum aç</u></string>
+    <string name="auth_failed">Kimlik doğrulama başarısız.</string>
+    <string name="log_out">Çıkış yap</string>
+    <string name="me">Ben</string>
+    <string name="grant_storage_hint">Depolama izni vermen gerekiyor</string>
+    <string name="lost_google_hint"> Google sunucusuna bağlanılamadı, lütfen interneti kontrol edin</string>
+    <string name="upload_suc">Kod başarıyla yüklendi.</string>
+    <string name="upload_fail">Kod yüklenemedi.</string>
+    <string name="my_program">Programım</string>
+    <string name="nothing_here_yet">Şimdilik bir şey yok. :(</string>
+    <string name="sofa_hint">İlk yorum yapan olmak ister misin?</string>
     <string name="key_hide_noti" translatable="false">hide_noti</string>
     <string name="key_hide_push" translatable="false">hide_push</string>
-    <string name="null_comment_hint">Null comment content…</string>
-    <string name="initial">Initial</string>
-    <string name="share_empty_hint">You need to save file before share.</string>
-    <string name="need_login">Need Sign in</string>
-    <string name="upload_login_hint">You have to Sign in before you could upload your code</string>
-    <string name="login_now">Login now</string>
-    <string name="cloud_empty_hint">You don\'t have any scripts on cloud yet</string>
-    <string name="mkdir_fail">Make direction fail.</string>
+    <string name="null_comment_hint">Boş yorum isteği…</string>
+    <string name="initial">Başlangıç</string>
+    <string name="share_empty_hint">Paylaşmaya önce dosyayı kaydetmen gerek.</string>
+    <string name="need_login">Oturum açma gerekli</string>
+    <string name="upload_login_hint">Kodunu yüklemeden önce oturum aman gerek</string>
+    <string name="login_now">Şimdi giriş yap</string>
+    <string name="cloud_empty_hint">Henüz bulut scripting yok</string>
+    <string name="mkdir_fail">Yön yapma başarısız .</string>
     <string name="not_support_type_hint">Not support upload this type of file now</string>
     <string name="conflict_hint"><Data>
         <![CDATA[ <b>Remote file:</b>   <br/>
