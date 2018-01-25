@@ -436,11 +436,11 @@
     <string name="initial">Başlangıç</string>
     <string name="share_empty_hint">Paylaşmaya önce dosyayı kaydetmen gerek.</string>
     <string name="need_login">Oturum açma gerekli</string>
-    <string name="upload_login_hint">Kodunu yüklemeden önce oturum aman gerek</string>
+    <string name="upload_login_hint">Kodunu yüklemeden önce oturum açman gerek</string>
     <string name="login_now">Şimdi giriş yap</string>
-    <string name="cloud_empty_hint">Henüz bulut scripting yok</string>
+    <string name="cloud_empty_hint">Henüz bulut scriptin yok</string>
     <string name="mkdir_fail">Yön yapma başarısız .</string>
-    <string name="not_support_type_hint">Not support upload this type of file now</string>
+    <string name="not_support_type_hint">Bu tür dosyaları yükleme desteklenmiyor</string>
     <string name="conflict_hint"><Data>
         <![CDATA[ <b>Remote file:</b>   <br/>
     <u>Size:</u>  %4$s   <br/>
@@ -449,33 +449,33 @@
     <u>Size:</u> %2$s<br/>
     <u>Last updated:</u> %1$s <br/><br/>
     Do you want to override?]]></Data></string>
-    <string name="override_fail_hint">Override fail, please retry later</string>
-    <string name="delete_remote_suc">Delete remote file success</string>
-    <string name="delete_suc">Delete file success</string>
-    <string name="click_retry">Request timed out \nClick screen to retry</string>
-    <string name="lout">Log out?</string>
-    <string name="log_noti">Log Notification</string>
-    <string name="app_noti">App Notifications</string>
-    <string name="override_hint">Override local file?</string>
-    <string name="file_downloaded">File downloaded</string>
-    <string name="login_error">Login error</string>
-    <string name="my_space">My Space (%sMb / 10Mb)</string>
-    <string name="my_space_empty">My Space (— Mb / 10Mb)</string>
-    <string name="save_amp_push"><![CDATA[Save & Push]]></string>
-    <string name="shortcut_create_suc">Shortcut %s is created success</string>
-    <string name="need_grant">You need grant these permissions</string>
-    <string name="no_space">You don\'t have enough space to upload</string>
-    <string name="no_file">No file within this folder</string>
-    <string name="no_recent_file">You have not open any file recently</string>
-    <string name="cant_open">This file can not be opened.</string>
-    <string name="toolbar_showing">Project structure</string>
-    <string name="toolbar_close">Editor</string>
+    <string name="override_fail_hint">Geçersiz kılma başarısız, lütfen sonra tekrar deneyin</string>
+    <string name="delete_remote_suc">Uzak dosyaları silme başarılı</string>
+    <string name="delete_suc">Dosya silme başarılı</string>
+    <string name="click_retry">İstek zaman aşımına uğradı \nTekrar denemek için ekrana tıklayın</string>
+    <string name="lout">Çıkış yap?</string>
+    <string name="log_noti">Giriş Bildirimi</string>
+    <string name="app_noti">Uygulama Bildirimleri</string>
+    <string name="override_hint">Yerel dosyayı geçersiz kıl?</string>
+    <string name="file_downloaded">Dosya indirildi</string>
+    <string name="login_error">Giriş yapma hatası</string>
+    <string name="my_space">Alanım (%sMb / 10Mb)</string>
+    <string name="my_space_empty">Alanım (— Mb / 10Mb)</string>
+    <string name="save_amp_push"><![CDATA[Kaydet & Bas]]></string>
+    <string name="shortcut_create_suc">Kısayol %s başarıyla oluşturuldu</string>
+    <string name="need_grant">Bu izinleri onaylamayı gerek</string>
+    <string name="no_space">Yüklemek için yeterli alanın yok</string>
+    <string name="no_file">Klasörün içinde dosya yok</string>
+    <string name="no_recent_file">Son zamanlarda bir dosya açmadın</string>
+    <string name="cant_open">Dosya açılamıyor.</string>
+    <string name="toolbar_showing">Proje yapısı</string>
+    <string name="toolbar_close">Düzenleyici</string>
     <string name="slash_project_node" translatable="false">/projects</string>
-    <string name="not_support_yet">Not support yet</string>
-    <string name="new_file">New file</string>
+    <string name="not_support_yet">Henüz desteklenmiyor</string>
+    <string name="new_file">Yeni dosya</string>
     <string name="aipy" translatable="false">AIPy</string>
-    <string name="tools">Tools</string>
-    <string name="aipy_not_install"><![CDATA[Please <font color="#4BAC07">install base packages</font> \n before install related AIPY packages.]]></string>
+    <string name="tools">Araçlar</string>
+    <string name="aipy_not_install"><![CDATA[Lütfen  <font color="#4BAC07">temel</font> \n irmeden önce .]]></string>
 
     <!--color string-->
     <string name="color_red" translatable="false">#FFD2483D</string>
