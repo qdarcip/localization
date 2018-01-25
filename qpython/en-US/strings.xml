@@ -28,7 +28,7 @@
 
     <string name="more">Daha fazla</string>
     <string name="qpypi">Kütüphaneler</string>
-    <string name="sl4a_server">SL4A Server</string>
+    <string name="sl4a_server">SL4A Sunucusu</string>
     <string name="lib_manager" translatable="false">QPYPI</string>
     <string name="qpypi_up" translatable="false">QPYPI</string>
     <string name="internal_space">Depolamayı sıfırla</string>
@@ -493,23 +493,23 @@
     <string name="package_installed">Bu paket çoktan yüklendi </string>
     <string name="install_suc">Kurulum başarılı</string>
     <string name="install_fail">Kurulum başarısız, lütfen daha sonra tekrar deneyin</string>
-    <string name="install_package_fail">Paket kurulu başarısız ,lütfen daha sonra tekrar deneyin </string>
+    <string name="install_package_fail">Paket kurulumu başarısız ,lütfen daha sonra tekrar deneyin </string>
     <string name="lib_cache_folder_name" translatable="false">.lib_cache</string>
     <string name="py3_lib_cache_folder_name" translatable="false">.py3_cache</string>
-    <string name="aipy_not_release">Please Install and run setup from AIPy App</string>
-    <string name="aipy_not_support">AIPy do not support QPY3 yet</string>
+    <string name="aipy_not_release">Lütfen AIPy uygulamasından kurulumu kurun ve çalıştırın</string>
+    <string name="aipy_not_support">AIPy henüz QPY3 'ü desteklemiyor</string>
 
     <string name="aipy_app_id" translatable="false">org.aipy.app</string>
     <string name="python3_app_id" translatable="false">org.qpython.qpy36</string>
-    <string name="aipy_lib_hint">You can install or upgrade other AIPY related package below</string>
+    <string name="aipy_lib_hint">Diğer ilgili AIPy paketlerini aşağıdan kurabilir ya da güncelleyebilirsiniz.</string>
     <string name="album">Album</string>
-    <string name="last_refresh">Last Refresh: %s</string>
-    <string name="data_saver">Data saver</string>
-    <string name="saver_on">Use local cache</string>
-    <string name="saver_off">Reload every time</string>
+    <string name="last_refresh">Son yenileme: %s</string>
+    <string name="data_saver">Veri kaydedici</string>
+    <string name="saver_on">Yerel önbellek kullan</string>
+    <string name="saver_off">Her zaman yeniden yükle</string>
     <string name="key_saver" translatable="false">saver</string>
-    <string name="library">Library</string>
-    <string name="run">Run</string>
+    <string name="library">Kütüphane</string>
+    <string name="run">Çalıştır</string>
 
     <string name="insert_if">if :\n</string>
     <string name="insert_def">def ():\n</string>
@@ -521,16 +521,16 @@
     <string name="insert_el">else:\n</string>
     <string name="insert_ret">return\n</string>
 
-    <string name="file_new">File</string>
-    <string name="install_py3">Install Python 3</string>
-    <string name="py2_now">Using Python 2 now</string>
-    <string name="py3_now">Using Python 3 now</string>
-    <string name="switch_py3">Switch to Python 3</string>
-    <string name="enter_history">History</string>
-    <string name="qpy_featured">QPython Featured</string>
-    <string name="history_emp">History is empty</string>
-    <string name="no_google">Can\'t login without Google service</string>
-    <string name="pip_no_net">Can\'t open pip without network</string>
+    <string name="file_new">Dosya</string>
+    <string name="install_py3">Python 3'ü kur</string>
+    <string name="py2_now">Şu an Python 2 kullanılıyor</string>
+    <string name="py3_now">Şu an Python 3 kullanılıyor</string>
+    <string name="switch_py3">Python 3'e döndür</string>
+    <string name="enter_history">Geçmiş</string>
+    <string name="qpy_featured">QPython Yenilendi</string>
+    <string name="history_emp">Geçmiş boş</string>
+    <string name="no_google">Google servissiz giriş yapılamıyor</string>
+    <string name="pip_no_net">pip bağlantısız açılamıyor</string>
     <string name="key_py3">switch_py3</string>
     <string name="py3_not_install">Python3 not install</string>
     <string name="install_py3_hint">You need to install python3 before use it</string>
