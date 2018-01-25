@@ -475,7 +475,7 @@
     <string name="new_file">Yeni dosya</string>
     <string name="aipy" translatable="false">AIPy</string>
     <string name="tools">Araçlar</string>
-    <string name="aipy_not_install"><![CDATA[Lütfen  <font color="#4BAC07">temel</font> \n irmeden önce .]]></string>
+    <string name="aipy_not_install"><![CDATA[Lütfen AIPY dosyalarını indirmeden önce <font color="#4BAC07">temel</font> \n temel dosyaları indirin.]]></string>
 
     <!--color string-->
     <string name="color_red" translatable="false">#FFD2483D</string>
@@ -483,17 +483,17 @@
     <string name="color_dark_gray" translatable="false">#FF4A4A4A</string>
     <string name="color_yellow" translatable="false">#FFECCD00</string>
 
-    <string name="update_time_hint">Update: %s</string>
-    <string name="aipy_list_empty_hint">Can\'t find any AIPy package, please locate the error by following the steps below.\n
-        1. Make sure you have installed AIPy application\n
-        2. Make sure QPython has the permission of write file\n
-        3. Try to refresh by clicking the upper right corner button\n\n
-        If that dose\'t work, feel free to contact us by Email or github
+    <string name="update_time_hint">Güncelleme: %s</string>
+    <string name="aipy_list_empty_hint">Hiç AIPy paketi bulunamadı, lütfen aşağıdaki adımları izleyerek hatayı kaldırmaya çalışın.\n
+        1. AIPy uygulamasını indirdiğinizden emin olun\n
+        2. QPython'un dosya yazma izni olduğundan emin olun\n
+        3. Sağ üstteki butona basarak yenilemeye çalışın\n
+        Eğer çalışmıyorsa, Epostayı ya da github'ı kullanarak bizimle iletişim kurmaktan çekinmeyin.
     </string>
-    <string name="package_installed">This package already installed</string>
-    <string name="install_suc">Install success</string>
-    <string name="install_fail">Install fail, please try again later</string>
-    <string name="install_package_fail">Install package fail, please retry later</string>
+    <string name="package_installed">Bu paket çoktan yüklendi </string>
+    <string name="install_suc">Kurulum başarılı</string>
+    <string name="install_fail">Kurulum başarısız, lütfen daha sonra tekrar deneyin</string>
+    <string name="install_package_fail">Paket kurulu başarısız ,lütfen daha sonra tekrar deneyin </string>
     <string name="lib_cache_folder_name" translatable="false">.lib_cache</string>
     <string name="py3_lib_cache_folder_name" translatable="false">.py3_cache</string>
     <string name="aipy_not_release">Please Install and run setup from AIPy App</string>
