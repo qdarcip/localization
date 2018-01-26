@@ -8,7 +8,7 @@
     <string name="toast_activity_open">Dosya tarayıcısı yüklenemiyor</string>
     <string name="toast_memory_open">Dosya açılamıyor, yeterli hafıza yok</string>
     <string name="toast_open_error">Dosya açılamıyor(dosya çok büyük ya da bozuk olabilir)</string>
-    <string name="toast_save_null">Kaydedilemiyor, path is null</string>
+    <string name="toast_save_null">Kaydedilemiyor, path boş</string>
     <string name="toast_save_temp">Geçici dosyaya kaydedilemiyor</string>
     <string name="toast_save_delete">Kaydedilemiyor (geçici dosyayı kaydetmek için kopyalarken hata oluştu)</string>
     <string name="toast_save_rename">Kaydedilemiyor (geçici dosyayı kaydetmek için kopyalarken hata oluştu)</string>
