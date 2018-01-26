@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="toast_recent_files_invalid">"File doesn't exist anymore, removing from recent list."</string>
-    <string name="toast_recent_files_deleted">File deleted from recent list</string>
-    <string name="toast_intent_invalid_uri">Unable to open the file, URI is invalid</string>
-    <string name="toast_intent_illegal">Unable to open the file</string>
-    <string name="toast_activity_open">Unable to load the file browser</string>
-    <string name="toast_memory_open">Unable to open the file, not enough memory</string>
-    <string name="toast_open_error">Unable to open the file (maybe the file is too big, or corrupted)</string>
-    <string name="toast_save_null">Unable to save, path is null</string>
-    <string name="toast_save_temp">Unable to save to temp file</string>
-    <string name="toast_save_delete">Unable to save (error while copying temp file to save location)</string>
-    <string name="toast_save_rename">Unable to save (error while copying temp file to save location)</string>
-    <string name="toast_save_success">File saved</string>
-    <string name="toast_folder_cant_write">"Can't use this folder cause it isn't writeable"</string>
-    <string name="toast_file_cant_read">"Can't use this file cause it isn't readable"</string>
-    <string name="toast_search_not_found">No match was found in the current file</string>
-    <string name="toast_search_eof">No more match found in the current file</string>
-    <string name="toast_search_no_input">Type a text to search in the search bar</string>
-    <string name="toast_filename_empty">The filename must not be empty</string>
-    <string name="toast_warn_no_undo">Nothing to undo anymore.</string>
-    <string name="toast_open_home_page_error">Default file not found, try setting a new one in the settings.</string>
-    <string name="toast_home_page_cant_read">"Can't open default file cause it isn't readable"</string>
-    <string name="toast_widget_select">Select a file to associate with this new widget</string>
-    <string name="toast_open_select">Select a file to open</string>
-    <string name="toast_home_page_select">Select a file to open when you launch Ted from your home screen</string>
-    <string name="toast_file_saved_auto">"The opened file was saved automatically, and will be opened at next startup"</string>
+    <string name="toast_recent_files_invalid">"Dosya artık mevcut değil, son listeden kaldırılıyor."</string>
+    <string name="toast_recent_files_deleted">Dosya son listeden silindi</string>
+    <string name="toast_intent_invalid_uri">Dosya açılamıyor, URL geçersiz</string>
+    <string name="toast_intent_illegal">Dosya açılamıyor</string>
+    <string name="toast_activity_open">Dosya tarayıcısı yüklenemiyor</string>
+    <string name="toast_memory_open">Dosya açılamıyor, yeterli hafıza yok</string>
+    <string name="toast_open_error">Dosya açılamıyor(dosya çok büyük ya da bozuk olabilir)</string>
+    <string name="toast_save_null">Kaydedilemiyor, path is null</string>
+    <string name="toast_save_temp">Geçici dosyaya kaydedilemiyor</string>
+    <string name="toast_save_delete">Kaydedilemiyor (geçici dosyayı kaydetmek için kopyalarken hata oluştu)</string>
+    <string name="toast_save_rename">Kaydedilemiyor (geçici dosyayı kaydetmek için kopyalarken hata oluştu)</string>
+    <string name="toast_save_success">Dosya kaydedildi</string>
+    <string name="toast_folder_cant_write">"Bu klasör kullanılamaz çünkü yazılabilir değil"</string>
+    <string name="toast_file_cant_read">"Dosya kullanılamıyor çünkü okunabilir değil"</string>
+    <string name="toast_search_not_found">Şimdiki dosyada bir eşleşme bulunamadı</string>
+    <string name="toast_search_eof">Şimdiki dosyada bir eşleşme bulunamadı</string>
+    <string name="toast_search_no_input">Arama çubuğunda aramak için bir metin yazın</string>
+    <string name="toast_filename_empty">Dosya adı boş bırakılmalıdır</string>
+    <string name="toast_warn_no_undo">Daha fazla geri alınamaz.</string>
+    <string name="toast_open_home_page_error">Varsayılan dosya bulunamadı, ayarlardan yeni bir tane ayarlamayı deneyin.</string>
+    <string name="toast_home_page_cant_read">"Varsayılan dosya açılamıyor çünkü okunabilir değil"</string>
+    <string name="toast_widget_select">Yeni widget ile ilişkilendirmek için bir dosya seçin</string>
+    <string name="toast_open_select">Açmak için bir dosya seçin</string>
+    <string name="toast_home_page_select">Ana ekranınızda Ted'i başlattığınızda açılacak bir dosya seçin</string>
+    <string name="toast_file_saved_auto">"Açılan dosya otomatik olarak kaydedildi, sonraki başlangıçta açılacak"</string>
 
 
     <!--  -->
-    <string name="toast_folder_doesnt_exist">"Can't display folder cause it doesn't exist"</string>
-    <string name="toast_folder_not_folder">Can\'t display folder cause it isn\'t a folder</string>
-    <string name="toast_folder_cant_read">"Can't display folder cause it isn't readable"</string>
-    <string name="toast_no_market">The Android Play Store is not present on this device</string>
+    <string name="toast_folder_doesnt_exist">"Var olmayan dosya gösterilemiyor"</string>
+    <string name="toast_folder_not_folder">Dosya gösterilemiyor çünkü bir dosya değil </string>
+    <string name="toast_folder_cant_read">"Dosya gösterilemiyor çünkü okunabilir değil"</string>
+    <string name="toast_no_market">Bu cihazda Android Play Store bulunmamakta</string>
 
 </resources>
