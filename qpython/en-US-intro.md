@@ -1,5 +1,5 @@
 QPython android cihazlarda Python'ı çalıştıran script motorudur. Android cihazının Python scriptlerini ve projelerini çalıştırmasını sağlar. Python derleyicisi, konsolu, editörü ve Android için SL4A kitaplığı içerir. Python Android'de!
-It offers the development kit which lets you easily develop Python projects and scripts on your Android device.
+Android cihazında kolayca Python projelerini ve scriptlerini gelişirmeni sağlayan bir geliştirme kiti sunuyor.
 
 [[ Ana Özellikler ]]
 * Android'te web uygulamaları dahil, oyunlarda ve SL4A programlamada vb. Python proglamlamayı destekler
@@ -10,15 +10,14 @@ It offers the development kit which lets you easily develop Python projects and 
 * Pip destekler
 
 [[ Programlama Özellikleri ]]
-* Web uygulaması proglamlamasını destekler, which let you develop mobile apps with web development framework, this speeds up your mobile development greatly
-* Supports native UI programming, which let you develop games more easily by using scripts
-* Supports SL4A programming to access Android’s features: network, Bluetooth, GPS, and more
+* Mobil uygulamaları web geliştirme çerçevesinde geliştirmeyi destekleyen web uygulaması programlamasını destekler, bu mobil geliştirmenizi büyük ölçüde hızlandırır
+* Oyunları script kullanarak daha kolay geliştirmeyi sağlayan doğal (native) UI programlamayı destekler.
+* Android özelliklerine erişbilmek için SL4A programlamayı destekler: ağlar, Bluetooth, GPS ve daha fazlası
 
 
 [ ÖNEMLİ NOT ] 
-* QPython BETA aşamasındadır. Eğer bir problem gözlemlerseniz, please contact us so we can address them.
-* To enable programming with some of Android’s features, QPython requires the following permissions: Bluetooth, GPS, and others. It doesn't require some permissions like access user account, access phone's status, so you could not use some related SL4A APIs.
-
+* QPython BETA aşamasındadır. Eğer bir problem gözlemlerseniz, onları düzeltebilmemiz için lütfen bizle iletişime geçin.
+* Androidin bazı özellikleriyle programlamak mümkündür, QPython aşağıdaki izinleri gerektirir: Bluetooth, GPS, ve diğerleri. Kullanıcı hesabına erişim, telefon durumuna erişim gibi izinler gerektirmez, bu yüzden bazı ilgili SL4A API'ları kullanamayabilirsiniz. 
 
 [ QPython topluluğu ]
 http://qpython.org
@@ -35,8 +34,8 @@ https://groups.google.com/forum/#!forum/qpython
 
 
 [ DİĞER ]
-This software uses code of Android Terminal Emulator licensed under the APACHE2 LICENSE, Kivy licensed under the LGPL 3 LICENSE.
-Part of source could be found on https://github.com/qpython-android , we will push on the whole qpython to be opensource gradually.
+Bu yazılım APACHE2 LICENSE altında lisanslanan Android Terminal Emülatörü kodlarını, LGPL 3 LICENSE altında lisanslanan Kivy'yi kullanır.
+Kaynak kodların  bir kısmı https://github.com/qpython-android linkinde bulunabilir , tüm qpython açık bir kaynak olana kadar kademeyle devam edeceğiz.
 
 [ESKİ VERSİYONLAR]
 Eğer en yeni versiyonu indiremiyorsanız, lütfen bu linkten eski versiyonu indirmeyi deneyin https://github.com/qpython-android/qpython/releases
