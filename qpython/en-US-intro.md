@@ -1,4 +1,4 @@
-QPython is a script engine that runs Python on android devices. It lets your android device run Python scripts and projects. It contains the Python interpreter, console, editor, and the SL4A Library for Android. It’s Python on Android!
+QPython android cihazlarda Python'ı çalıştıran script motorudur. Android cihazının Python scriptlerini ve projelerini çalıştırmasını sağlar. Python derleyicisi, konsolu, editörü ve Android için SL4A kitaplığı içerir. Python Android'de!
 It offers the development kit which lets you easily develop Python projects and scripts on your Android device.
 
 [[ Ana Özellikler ]]
@@ -10,7 +10,7 @@ It offers the development kit which lets you easily develop Python projects and 
 * Pip destekler
 
 [[ Programlama Özellikleri ]]
-* Supports Web App programming, which let you develop mobile apps with web development framework, this speeds up your mobile development greatly
+* Web uygulaması proglamlamasını destekler, which let you develop mobile apps with web development framework, this speeds up your mobile development greatly
 * Supports native UI programming, which let you develop games more easily by using scripts
 * Supports SL4A programming to access Android’s features: network, Bluetooth, GPS, and more
 
@@ -26,7 +26,7 @@ http://wiki.qpython.org
 
 
 [ Geri bildirim ]
-Eğer uygulamamızı sevdiysen lütfen beş yıldız ver. Teşekkürler! 
+Eğer uygulamamızı sevdiyseniz lütfen beş yıldız verin. Teşekkürler! 
 Herhangi bir problem oluşursa bizimle iletişime geçin.
 http://m.facebook.com/QPython
 http://twitter.com/QPython
@@ -39,5 +39,5 @@ This software uses code of Android Terminal Emulator licensed under the APACHE2 
 Part of source could be found on https://github.com/qpython-android , we will push on the whole qpython to be opensource gradually.
 
 [ESKİ VERSİYONLAR]
-Eğer en yeni versiyonu indiremiyorsanız, lütfen bu linkten eski versiyonu indirin https://github.com/qpython-android/qpython/releases
+Eğer en yeni versiyonu indiremiyorsanız, lütfen bu linkten eski versiyonu indirmeyi deneyin https://github.com/qpython-android/qpython/releases
 
